@@ -24,7 +24,7 @@ make
 ## Dependencies
 - SFML 2.5+
 
-## 🎯 Project Purpose
+## Project Purpose
 This project was developed as a Semester 1 assignment to understand core game development concepts such as:
 - Game loops
 - Physics simulation (gravity & jumping)
